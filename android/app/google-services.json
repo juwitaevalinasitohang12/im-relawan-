@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "102275756023",
+    "project_id": "im-relawan-166cb",
+    "storage_bucket": "im-relawan-166cb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102275756023:android:ec3aac11723a315baa88f2",
+        "android_client_info": {
+          "package_name": "com.example.im_relawan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJbG2dYbjOehbPgmnXvZMGNsEQiY42cHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
