@@ -18,12 +18,15 @@ Aplikasi mobile untuk melaporkan kejadian bencana alam di sekitar kita. Dibuat d
 - Firebase Authentication (login anonim)
 
 ## Struktur Folder
+
+```
 lib/
-├── data/services/ # Koneksi ke Firebase
-├── domain/models/ # Model data
-├── repositories/ # Abstraksi dan implementasi repository
-├── routing/ # Konfigurasi navigasi
-└── ui/ # Tampilan dan view model
+├── data/services/     # Koneksi ke Firebase
+├── domain/models/     # Model data
+├── repositories/      # Abstraksi dan implementasi repository
+├── routing/           # Konfigurasi navigasi
+└── ui/                # Tampilan dan view model
+```
 
 ## Cara Menjalankan
 1. Clone repository ini:
